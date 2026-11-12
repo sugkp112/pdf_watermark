@@ -1,0 +1,14 @@
+{
+  "name": "PDF Watermark Tool",
+  "tag": "v2.1.3",
+  "file": "PDF_Watermark_Tool_2.1.3.20260617.exe",
+  "date": "2026-06-17",
+  "bytes": 42784114,
+  "sha256": "13c9f1574757f251986eb07128cebd51b8b3d1061df3ecbc5718ba1f650834e1",
+  "release_url": "https://github.com/sugkp112/pdf_watermark/releases/tag/v2.1.3",
+  "direct_url": "https://github.com/sugkp112/pdf_watermark/releases/download/v2.1.3/PDF_Watermark_Tool_2.1.3.20260617.exe",
+  "zirulab_download": "https://zirulab.org/download/pdf-watermark-tool",
+  "windows_runtime_tested": false,
+  "github_uploaded": false,
+  "cloudflare_deployed": false
+}
